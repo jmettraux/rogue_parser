@@ -1,3 +1,15 @@
+
+
+'rogue_parser' is 'ruby_parser' with this patch applied :
+
+http://rubyforge.org/tracker/?func=detail&aid=20106&group_id=439&atid=1780
+
+
+I hope I can get rid of this temporary repo by the next release of ruby_parser
+
+
+
+
 ruby_parser
     by Ryan Davis
     http://parsetree.rubyforge.org/
